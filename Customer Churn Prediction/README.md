@@ -50,11 +50,12 @@ Customer Churn Prediction/ ├── data/ │ └── Churn_Modelling.csv # D
 
 ### Confusion Matrix  
 
-![Confusion Matrix](https://github.com/user-attachments/assets/4f0efeb8-5244-4b75-9fcf-3e5c0b9c035e)
+![Confusion Matrix](https://github.com/your-username/Codsoft/blob/main/Customer%20Churn%20Prediction/assets/confusion_matrix.png)
 
 ### Feature Importance  
 
-![Feature Importance](https://github.com/user-attachments/assets/5fe25dbf-039c-4800-87a3-d1cc436c2d0c)
+![Feature Importance](https://github.com/your-username/Codsoft/blob/main/Customer%20Churn%20Prediction/assets/feature_importance.png)
+
 
 ## How to Run
 
