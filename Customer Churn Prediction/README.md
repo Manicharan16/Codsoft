@@ -48,9 +48,10 @@ Customer Churn Prediction/ ├── data/ │ └── Churn_Modelling.csv # D
 
 > **Note: These scores are based on the Random Forest model trained on the dataset.**
 
-### Confusion Matrix  
+### Churn Distribution  
 
-![Confusion Matrix](https://github.com/your-username/Codsoft/blob/main/Customer%20Churn%20Prediction/outputs/confusion_matrix.png)
+![Churn Distribution](https://github.com/your-username/Codsoft/raw/main/Customer%20Churn%20Prediction/outputs/churn_distribution.png)
+
 
 
 ## How to Run
