@@ -50,7 +50,7 @@ Customer Churn Prediction/ ├── data/ │ └── Churn_Modelling.csv # D
 
 ### Churn Distribution  
 
-![Churn Distribution](https://github.com/your-username/Codsoft/raw/main/Customer%20Churn%20Prediction/outputs/churn_distribution.png)
+![Churn Distribution](https://github.com/Manicharan16/Codsoft/raw/main/Customer%20Churn%20Prediction/outputs/churn_distribution.png)
 
 
 
