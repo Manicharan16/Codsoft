@@ -58,6 +58,14 @@ To develop an intelligent classification model that can accurately **detect frau
 ![Feature Importance](https://github.com/user-attachments/assets/5fe25dbf-039c-4800-87a3-d1cc436c2d0c)
 
 
+## Installation
+
+```bash
+git clone https://github.com/Manicharan16/Codsoft/Credit Card Fraud Detection.git
+cd Credit Card Fraud Detection
+pip install -r requirements.txt
+
+
 
 
 
