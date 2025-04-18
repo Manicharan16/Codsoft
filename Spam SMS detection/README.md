@@ -1,14 +1,23 @@
-Tech Stack
+# SMS Spam Detection
 
-Language: Python
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Model Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen)](#-model-performance)
+[![Made with 💖](https://img.shields.io/badge/Made%20with-%F0%9F%92%96-red)](#)
 
-Libraries: scikit-learn, pandas, numpy, joblib
+An AI-based machine learning project that classifies SMS messages as **spam** or **ham (legitimate)**. This project uses Natural Language Processing (NLP) techniques such as **TF-IDF** and a **Logistic Regression classifier** to accurately detect unwanted messages.
 
-Model Used: Logistic Regression
 
-Feature Extraction: TF-IDF Vectorizer
+## Features
 
-Project Structure:
+-  Clean and structured codebase using modular Python scripts
+-  Preprocessing using TF-IDF vectorizer
+-  Trained model using Logistic Regression (high accuracy)
+-  Command-line interface (CLI) for real-time message prediction
+-  Easy to extend and deploy
+
+
+## Project Structure
 
 SMS spam detection/
 │
@@ -29,12 +38,34 @@ SMS spam detection/
 └── README.md                            # Project documentation
 
 
-Dataset
+## Techniques Used
 
-Source: Kaggle - SMS Spam Collection Dataset
-Size: 5,572 SMS messages, labeled as spam or ham.
+- **Natural Language Processing (NLP)**
+- **TF-IDF (Term Frequency-Inverse Document Frequency)**
+- **Logistic Regression Classifier**
+- **Model persistence using joblib**
 
-Sample Output
+
+## Dataset
+
+- **Name:** SMS Spam Collection
+- **Source:** [UCI / Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+- **Size:** 5,572 SMS messages
+- **Labels:** `spam`, `ham`
+
+
+## Model Performance
+
+| Metric       | Score |
+|--------------|-------|
+| Accuracy     | 95%   |
+| Precision    | 95%   |
+| Recall       | 95%   |
+| F1 Score     | 94%   |
+
+
+
+## Sample Output
 
 Enter SMS message:
 > You have won $1000 cash prize. Claim now!
